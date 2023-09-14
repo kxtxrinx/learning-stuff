@@ -1,0 +1,7 @@
+C:\codigoDI\DI-Ejercicio1-Films\DI-Ejercicio1-Films\bin\Debug\DI-Ejercicio1-Films.exe.config
+C:\codigoDI\DI-Ejercicio1-Films\DI-Ejercicio1-Films\bin\Debug\DI-Ejercicio1-Films.exe
+C:\codigoDI\DI-Ejercicio1-Films\DI-Ejercicio1-Films\bin\Debug\DI-Ejercicio1-Films.pdb
+C:\codigoDI\DI-Ejercicio1-Films\DI-Ejercicio1-Films\obj\Debug\DI-UT1-Practica1-Films.csproj.AssemblyReference.cache
+C:\codigoDI\DI-Ejercicio1-Films\DI-Ejercicio1-Films\obj\Debug\DI-UT1-Practica1-Films.csproj.CoreCompileInputs.cache
+C:\codigoDI\DI-Ejercicio1-Films\DI-Ejercicio1-Films\obj\Debug\DI-Ejercicio1-Films.exe
+C:\codigoDI\DI-Ejercicio1-Films\DI-Ejercicio1-Films\obj\Debug\DI-Ejercicio1-Films.pdb
